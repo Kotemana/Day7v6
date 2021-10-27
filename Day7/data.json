@@ -1,0 +1,381 @@
+{
+  "Name": "Cat Museum",
+  "Address": {
+    "City": "Minsk",
+    "AddressLine": "Komsomolskaya 25"
+  },
+  "Cats": [
+    {
+      "Name": "Chernysh",
+      "Weight": 5000
+    },
+    {
+      "Name": "Ryzhik",
+      "Weight": 7000
+    },
+    {
+      "Name": "Bobik",
+      "Weight": 3000
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Rybolov",
+      "Weight": 3500
+    },
+    {
+      "Name": "Bersik",
+      "Weight": 92000
+    }
+  ]
+}
